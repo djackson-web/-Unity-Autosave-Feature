@@ -70,9 +70,9 @@ Assets/
 
 └── Editor/
 
-   ├── AutoSave.cs
+  ├── AutoSave.cs
    
-   └── AutoSavePreferencesProvider.cs
+  └── AutoSavePreferencesProvider.cs
 
 ---
 
