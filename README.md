@@ -67,8 +67,11 @@ All settings are stored in `EditorPrefs` on your local machine and are not inclu
 ## File Structure
 
 Assets/
+
 └── Editor/
+
 ├── AutoSave.cs
+
 └── AutoSavePreferencesProvider.cs
 
 ---
